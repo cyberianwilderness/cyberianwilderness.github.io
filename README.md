@@ -1,4 +1,4 @@
 # Cyberian Wilderness
- Former teacher turned cybersecurity student's expedition into the world of cyber.
+ Former teacher turned cybersecurity student's adventure into the world of cyber.
  
  
