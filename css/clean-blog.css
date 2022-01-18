@@ -23,6 +23,10 @@ h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
+  text-align: center; 
+  /*! 
+  above line added 180121
+  */
 }
 a {
   color: #333333;
