@@ -15,12 +15,7 @@ p {
 p a {
   text-decoration: underline;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
   text-align: center; 
@@ -28,6 +23,19 @@ h6 {
   above line added 180121
   */
 }
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 800;
+  text-align: left; 
+  /*! 
+  above lines added 230121
+  */
+}
+
 a {
   color: #333333;
 }
