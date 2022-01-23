@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<style>
+h1 {text-align: center;}
+h2 {text-align: left;}
+</style>
 <head>
 
     <meta charset="utf-8">
@@ -89,7 +92,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <div class="post-heading">
+                    <div class="page-heading">
                         <h1>Title</h1>
                         <h2 class="subheading">Neat summary of blog</h2>
                         <span class="meta">Posted by <a href="#">Ewan Taylor</a> on Month Date, Year</span>
