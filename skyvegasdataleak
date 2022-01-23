@@ -4,7 +4,7 @@
 <head>
 <style>
 h1 {text-align: center;}
-h2 {text-align: center;}
+h2 {text-align: left;}
 </style>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -92,7 +92,7 @@ h2 {text-align: center;}
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <div class="post-heading">
+                    <div class="page-heading">
                         <h1>Sky Vegas Data Breach</h1>
                         <h2 class="subheading">What happens when you recieve e-mails you opted out of?</h2>
                         <span class="meta">Posted by <a href="#">Ewan Taylor</a> on January 16th, 2022</span>
