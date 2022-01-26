@@ -12,7 +12,7 @@ h2 {text-align: left;}
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Clean Blog - Sample Post</title>
+    <title>Sky Vegas Data Leak</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -95,7 +95,7 @@ h2 {text-align: left;}
                     <div class="page-heading">
                         <h1>Sky Vegas Data Breach</h1>
                         <h2 class="subheading">What happens when you recieve e-mails you opted out of?</h2>
-                        <span class="meta">Posted by <a href="#">Ewan Taylor</a> on January 16th, 2022</span>
+                        <span class="meta">Posted by Ewan Taylor on January 26th, 2022</span>
                     </div>
                 </div>
             </div>
@@ -107,62 +107,116 @@ h2 {text-align: left;}
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                
+              <p>Full disclosure ahead of reading this article. I am not a gambler myself, nor am I an admirer in any shape or form of many of the advertising practices of gambling companies. <br>
+(However, I do fully appreciate that many people enjoy an occasional bet and are able to keep a lid on their gambling so that it is limited to what they can afford to lose.) </p>
+<p><i>If you are within this category and get a thrill out of it within a sustainable means, then I hope it stays like that and never gets out of hand! </i></p>
 
+<p>A data breach occurred in November 2021 when Sky Vegas e-mailed customers alerting to them to promotion that if they spent £5 online, they would receive 100 free spins (Shone, 2021). 
+After hearing of data leaks and data breaches that recently hit giants Facebook and Twitch in 2021 you would be forgiven for thinking surely e-mailing customers an offer is innocuous in the grand scheme of things?
+But all data breaches point to a weakness somewhere, it may be a mistake or something more malicious. My short experience studying Cybersecurity has highlighted the fact that, you are only as system is only as secure as its weakest link in the chain. (i.e. no point having a car with three brand new tires and one dodgy tire, this would lead to obvious issues).
+<h3>So what has happened here that’s led to you creating a blog about it?</h3>
+<p>Amongst the recipients of this email were individuals who recovering gambling addicts and had opted out of receiving e-mails. These will be individuals that Sky Betting and Gaming (the company that owns Sky Vegas – Sky Vegas is the online casino division of this company) should be aware off. </p>
+<p>
 
-Sky Vegas had a data breach when customers recieved an e-mail regarding 100 free spins if they spent £5. After hearing of data leaks and data breaches that recently hit giants Facebook, Twitch and Instagram(?) you'd be forgiven for thinking surely e-mailing customers an offer is fairly innocous?
+Perhaps you read this thinking that opting out nowadays feels almost like an impossibility. How many people reading this regularly receive cold calls and a deluge of junk e-mail all too frequently despite asking for the opposite to occur? </p>
+<p>
 
-Thats where the problem begins.
-Amongst the recipients of this email were many individuals who  recovering gambling addicts and had opted out of recieving e-mails.
+Unsubscribing from junk e-mails and any cold calls you receive is extremely difficult, nearing on impossible. Once people have access to your e-mail address/phone number making it harder for the authorities to clamp down on the spam senders due to the sheer number of them. There are steps you can take to filter your e-mails that vary from depending on your mail provider.</p>
+<p>
 
-One piece of advice would be that because we cannot fully rely on gambling companies to not commit data breaches like this, that you should create a filter in your e-mail to prevent certain companies or emails with certain words in them from getting to your inbox in the first place.
+In the gambling industry this is slightly different, as the law (in the UK) mandates that betting companies such as Sky Betting and Gambling are required to offer a self-exclusion option to all customers – giving a much-needed option for individuals to remove themselves from gambling e-mails. <br>
+Therefore, this data leak could be detrimental as it is taking advantage of vulnerable persons who have taken a brave step in seeking help, either by excluding themselves or using charities such Gamban and Gamstop excluded themselves from Sky Betting and Casino. </p>
+<p>
 
-A more pertinent question, is what is a suitable punishment, if any, that should be administered? Will the thorough investigation lead to a more rigorous policy that prevents data breaches like this happening again?
+Should it then be inferred that we cannot fully rely on gambling companies to not commit data breaches like this? 
+I would still like to hope that these isolated incidents remain isolated and do not repeat themselves. It could certain be argued that with how rife online gambling is in 2022, there is massive opportunity for data breaches if companies do not act responsibly and safely. 
+</p>
+<p>
 
-Two further reasons why this was not a great look is that it occured during the industry's annual Safer Gambling week (no, I hadn't heard of it or seen that publicised at all either) and came after Flutter boasted improved safer gambling measures.
-What defines safe gambling
-This is not the first example of Sky Vegas doing this, so there is still more room for improvement since their last thorough investigation.
+Perhaps like me, the first notions that come into your head are for people should “create a filter in your e-mail to prevent certain companies or emails with certain words arriving in your inbox” or “create a new e-mail address”. If it was that easy, charities like Gamban and Gamstop would not have helped as many individuals as they have.
+A more pertinent question, is what is a suitable punishment, if any, that should be administered? Will the thorough investigation lead to a more rigorous policy that prevents data breaches like this happening again? </p>
 
+<h3>Aren't you being overly critical? Isn't this just one accidental e-mail? </h3><p>
 
+Even if it was, questions still need to be raised by these actions - but sadly back in 2018, Sky Betting and Gaming were involved in a similar data leak, sending promotional material to 50,000 customers, and were consequently fined £1,000,000 for their misdemeanours (Davies, 2018).   Sadly lessons were not learned though, as a fine of this magnitude has not ensured that mistakes were not repeated years later. 
+Remember what I said earlier, a system is only as secure as the weakest link in the chain – and it seems that chain is still prone to error and could be termed weak. </p>
+<p>
 
-                    <p>https://www.nationalworld.com/news/politics/recovering-gambling-addicts-received-enticing-emails-from-sky-vegas-in-major-breach-of-harm-reduction-rules-3442569
+Although where does this money go that Sky Betting and Gaming have been fined go? Does this money in this instance go towards funding organisations that will be the one of first to support gambling addicts, potentially caused by either of Sky Betting and Gaming’s data leaks? 
+I sincerely hope I am incorrect but my gut feeling is that there would be long odds on the possibility this money gets put to good use. </p>
+<p>
+
+Two further reasons why this was not a great look is that it occurred during the industry's annual Safer Gambling week (no, I hadn't heard of it or seen that publicised at all either) and came after Flutter (the company that owns Sky Betting and Gaming and other companies such as Betfair and Paddy Power), boasted improved safer gambling measures. 
+Flutter even said that their financial results had been negatively impacted by safer gambling controls 
+– which to me shows that unsafe and potentially now unethical gambling controls (must have been tightened for a reason) lead them filling their bank balances in the first place? Before you feel sympathy for Flutter – this is the same company that recorded a 22% revenue in the first half of 2020, netting £2.4billion (Ormsby, 2020). 
+A time where many Britons were on furlough. </p>
+<h3>
+Betting companies cannot be solely responsible for problem gamblers – what else can be done? </h3>
+<p>
+Flutter may state that “We have been looking at 
+meaningful ways we can enhance customer protections” (Grant, 2021) but it takes two to tango as they say, so we need to look at what the individual can do.
+In a bid to tackle problem gambling in the UK the government mandated betting companies include a self-exclusion option and charities like Gamban and Gamstop (there are many others I am sure that do a sterling job – so apologies for missing them out) help take care of the process of self-excluding, or at least simplify the entire process. 
+As of December 1st, 2021, Gamstop tweeted that they have helped 250,000 people self-exclude (Fletcher, 2021). 
+Hats of to them, but that paints a further picture – how many of these individuals were impacted by the two data leaks? </p>
+
+<h3>
+Sky Betting and Gaming aren’t complete monsters though Ewan, they can do good surely? </h3><p>
+
+As I mentioned at the start, many people enjoy “gambling responsibly” (I’m sure you have heard that phrase for one second on an advert at the very end) and Sky Betting and Gaming provides an avenue for adults to do so. They do help charities and colleagues are giving paid leave each year to volunteer – more than what some companies who are perhaps deemed more ethical offer. 
+I do welcome the fundraising that has been done to raise over a £210,000 for MacMillan Cancer Support and helping many other charities, including ‘Give a Duck’ which provides support to children with cancer. 
+I am almost certain I have missed out other charitable work that has been done (apologies) but here is a link to some of the charity work that has been done (Giving Back | Sky Betting & Gaming, 2022.) <br>
+Sky Betting and Gaming have won several awards based on workplace satisfaction (Careers at Sky Betting & Gaming, 2022) so there must be many positives to working for the company. What many would like to see is the happiness of the colleagues being replicated with the customers! </p>
+<p>
+
+What happens next?
+We eagerly await the results of the investigation primarily. So far Sky Betting and Gaming have apologised so far (which is at least an admittance of wrongdoing), but no official reprimands have been issued out yet. </p>
+<p>
+
+What going forward?
+The most important issue here, is the privacy of the customer being respected and adhered to. Protecting all customers data is the responsibility of all companies, with vulnerable customers (gambling addicts in this case) needing further safeguards to prevent a third data breach of this type occurring. </p>
+<p>
+
+More must be done by all parties here (sitting well and truly on the fence I know!). Should Gamban, Gamstop and other gambling charities be applying more pressure on the government and betting companies to try and hold them to account? Yes, that would not do any harm, but change is not going to be quick or guaranteed. </p>
+<p>
+
+<b>Does Sky Betting and Gaming need to have tighter data protection controls to safeguard against this happening?</b> <br>The evidence points to yes on that one, 
+however it could be argued that these are two isolated incidents amongst many and hopefully a review can pinpoint where the error occurred, so that changes can be swiftly made to ensure best practice with regards to successful data protection policies in the gambling industry.
+<br>
+<b>
+Does the government need to implement tighter legislation to enforce change?</b> <br>Most likely. Even if Safer Gambling strategy… at the heart of our business for years (About Us, 2022) – gambling is still not safe enough if a quarter of a million people self-excluding through Gamstop alone (there will sadly be many others in the UK). This highlights the need for change still.
+</p>
+<p>
+Sky Vegas said, "we love the unexpected" however in this given circumstance this couldn’t be further from the truth. Customers don’t love unexpected e-mails they opted out from and Sky Vegas and Gaming don’t love unexpected but customers who aren’t expecting promotional gambling material certainly do not. Nor do Sky Vegas love unexpected data leaks. Nobody loves them.
 </p>
 
-                    <p>Imagine trying to quite something, something of immense challenge. Perhaps you require some assistance from others, 
+<h3>
+Links to companies and charities referred to in this blog 
+</h3>
+<p>
+<a href="https://www.flutter.com/">Flutter - https://www.flutter.com/ </a> <br>
+<a href="https://gamban.com">Gamban - https://gamban.com<a/> <br>
+<a href="https://www.gamstop.co.uk/">GamStop - https://www.gamstop.co.uk/ </a> <br>
 </p>
 
-                    <p>Now hands on the table. I am not a gambler myself, nor am I a huge fan of many of the practices of gambling companies. However I fully appreciate that for some people they enjoy an occasional flutter and are able to keep a lid on their gambling so that it is limited to what they can afford to lose. If you are within this category and get a thrill out of it, then I hope it stays like that and never gets out of hand!
+<h3>Bibliography </h3>
+<p>
+Sky Betting and Gaming. 2022. About Us | Careers at Sky Betting & Gaming. [online] <a href="https://www.skybetcareers.com/about-us/">Available at: <https://www.skybetcareers.com/about-us/> </a>[Accessed 26 January 2022]. <br>
+
+Davies, R., 2018. Sky Bet fined £1m for failing to protect vulnerable customers. [online] the Guardian. <a href="https://www.theguardian.com/society/2018/mar/28/sky-bet-fined-vulnerable-customers-gambling-commission">Available at: <https://www.theguardian.com/society/2018/mar/28/sky-bet-fined-vulnerable-customers-gambling-commission></a> [Accessed 26 January 2022].	 <br>
+
+Fletcher, R., 2021. Gamstop surpasses 250,000 registrations. [online] igamingbusiness. <a href="https://igamingbusiness.com/gamstop-surpasses-250000-registration-milestone/">Available at: <https://igamingbusiness.com/gamstop-surpasses-250000-registration-milestone/></a> [Accessed 26 January 2022]. <br>
+
+Sky Betting and Gaming. 2022. Giving Back | Sky Betting & Gaming. [online] <a href="https://www.skybetcareers.com/giving-back/">Available at: <https://www.skybetcareers.com/giving-back/></a> [Accessed 26 January 2022]. <br>
+
+Grant, C., 2021. Safer Gambling – putting our customers first. [online] Flutter.com. <a href="https://www.flutter.com/sites/paddy-power-betfair/files/press-release-files/safer-gambling-putting-our-customers-first.pdf">Available at: <https://www.flutter.com/sites/paddy-power-betfair/files/press-release-files/safer-gambling-putting-our-customers-first.pdf></a> [Accessed 26 January 2022]. <br>
+
+Ormsby, B., 2020. Gambling giant cashes in with lockdown growth | TheBusinessDesk.com. [online] Yorkshire. <a href="https://www.thebusinessdesk.com/yorkshire/news/2061257-gambling-giant-cashes-in-with-revenue-growth">Available at: <https://www.thebusinessdesk.com/yorkshire/news/2061257-gambling-giant-cashes-in-with-revenue-growth></a> [Accessed 26 January 2022]. <br>
+
+Shone, E., 2021. Recovering gambling addicts received ‘enticing’ emails from online casino Sky Vegas. [online] Nationalworld.com. <a href="https://www.nationalworld.com/news/politics/recovering-gambling-addicts-received-enticing-emails-from-sky-vegas-in-major-breach-of-harm-reduction-rules-3442569">Available at: <https://www.nationalworld.com/news/politics/recovering-gambling-addicts-received-enticing-emails-from-sky-vegas-in-major-breach-of-harm-reduction-rules-3442569></a> [Accessed 26 January 2022]. <br>
+
+Sky Betting and Gaming. 2022. Careers at Sky Betting & Gaming. [online] <a href="https://www.skybetcareers.com/working-here/">Available at: <https://www.skybetcareers.com/working-here/></a> [Accessed 26 January 2022].
+https://www.skybetcareers.com/working-here/
 </p>
-
-                    <p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
-
-                    <p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
-
-                    <h2 class="section-heading">The Final Frontier</h2>
-
-                    <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-                    <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-                    <blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
-
-                    <p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
-
-                    <h2 class="section-heading">Reaching for the Stars</h2>
-
-                    <p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-
-                    <a href="#">
-                        <img class="img-responsive" src="img/post-sample-image.jpg" alt="">
-                    </a>
-                    <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-
-                    <p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-
-                    <p>Sky Vegas said "we love the unexpected" - perhaps not when it comes to data leaks. Nobody loves them.
-</p>
-
-                    <p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
                 </div>
             </div>
         </div>
@@ -201,7 +255,7 @@ This is not the first example of Sky Vegas doing this, so there is still more ro
                             </a>
                         </li>
                     </ul>
-                    <p class="copyright text-muted">Copyright &copy; Your Website 2016</p>
+                    <p class="copyright text-muted">Cyberian Wilderness 2022</p>
                 </div>
             </div>
         </div>
