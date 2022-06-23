@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+
+<head>
 <style>
 h1 {text-align: center;}
-h2 {text-align: left;}
+h2 {text-align: center;}
 </style>
-<head>
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -51,14 +51,13 @@ h2 {text-align: left;}
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-		    
                     <li>
                         <a href="about.html">About</a>
                     </li>
                     <li>
                         <a href="blogarchive.html">Archive</a>
                     </li>
-		    <li>
+		            <li>
                         <a href="cybersecuritysimplified.html">Cybersecurity Simplified</a>
                     </li>
                     <li>
@@ -85,14 +84,14 @@ h2 {text-align: left;}
 
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header class="intro-header" style="background-image: url('img/royalbluebg.jpg')">
+    <header class="intro-header" style="background-image: url('img/bluebg.jpg')">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="page-heading">
                         <h1>2FA</h1>
-                        <h2 class="subheading">What is Two Factor Authentication?</h2>
-                        <span class="meta">Posted by <a href="#">Ewan Taylor</a> June 20, 2022</span>
+                        <h2 class="subheading">What is it and should I bother?</h2>
+			            <span class="meta"><a href="https://niram.org/read/">Niram.org</a> estimates this blog will take 6 minutes to read. Posted June 22nd, 2022</span>
                     </div>
                 </div>
             </div>
@@ -104,100 +103,155 @@ h2 {text-align: left;}
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <p>Paragraphs go here</p>
+                <p>
+                    Disclaimer! - since the time of writing this blog (22/06/2022) some of the websites mentioned in this blog may have implemented two-factor authentication.<br>
+                    <b>2FA</b> stands for <b>T</b>wo <b>F</b>actor <b>A</b>uthentication. 
+                    With ongoing efforts to help strengthen the security of users when access different online accounts across various websites and applications on the internet, there is every chance you have encountered this term.
+                    Two-factor authentication is an additional step within the login process, that provides an extra layer of protection.
+                </p>
+                <p>
+                <b>What analogy would you use to describe 2FA to someone not tech-savvy? </b><br>
+                Two factor authentication is the process of having two pieces of information (factors) that can verify who you are. 
+                By having two pieces of information that are seperate that can verify your identity, this makes it more challenging for someone to access websites/services pretending to be you. 
+                The more difficult it is for a hacker to obtain your login details, the more secure you will be online.
+                <br> Imagine if someone could pretend to be you just by looking like you and saying they are you (i.e someone knows your username and password)?<br> What if you had a physical feature, piece of information or knowledge (e.g ID, fingerprint, classified information etc) that can act as an additional means of validating your identity. 
+                The rarer and more secure this additional means of verifying your identity is (i.e the more unique or the harder it is to obtain), the lower the odds of someone trying to successfully break into your account.
+                </p>
+              
+                <h3>Why should anyone use Two-Factor Authentication?</h3>
+                <p>
+                Everybody should be concerned at the amount of people who have they login credentials hacked. In todays digital world, an extra layer of security can only be advantageous.Usernames and Passwords are not the strongest defence for your personal data online. Why is this? 
+                There are a multitude of factors, which all centre around one core idea - <i>we are human!</i> 
+                <br>
+                As humans we make mistakes, and mistakes are cruelly punished by hackers who use a variety of tools to aid them.
+                These tools, like Bruteforce easily capitalise on some of the errors that we can make.
+                Some of you may say "But my passwords are strong?! - I make sure to have so many special characters that I am asked to do when creating a password for an account somewhere".
+                <br>While this is true, humans tend to commit the following cardinal sins;
+                <li>Reusing Passwords</li>
+                <li>Having passwords related to personal information</li>
+                <li>Having short passwords</li>
+                <li>Using words in the dictionary</li>
+                <li>Storing passwords in a non secure place</li>
+                <li>Updating a password by incrementing a number at the end of it</li>
+                <li>Password sharing</li>
+                <br>
+                Social engineering could become an issue here if people can begin to make educated guesses about what your passwords are based on information that can be obtained about you through your online activity.
+                <br>In an ideal world, none of the password faux pas above would happen! However, Two-Factor authentication does provide a second means of user validation, which is more secure than the above.
+                <br>
+                Guilty of any of the following? You may want to check out the website <a href="https://haveibeenpwned.com/"have i been pwned?></a> to check if your email or phone has been involved in a data breach (better to be safe than sorry).
+                </p>
+                <h3> How does it work?</h3>
+                <p>
+                Two-factor authentication comes in a variety of forms. 
+                <br>
+                One form is via an authenticator app on your phone (e.g. Google Authenticator, 2FA Authenticator, Microsoft Authenticator etc.) which generate a numeric code every 30 seconds. The user is prompted for the numeric code during the login process and only if the codes match will the user be granted access. (Not all websites support this unfortunately).
+                Websites that do support the use of an authenticator app will set this up by asking the user to scan a QR code (generated by the web service you are creating an account with).
+                <br>Another form is through SMS, where the user is sent a text message with a numeric code. <b>However with Apple devices, a text message could potentially be seen by any apple device which is logged on with the same apple ID (e.g. a Macbook can see the text message an iphone recieves if they are using the same Apple ID) - so this is something to be wary off.</b>
+                <br> Two factor authentication isn't just restricted to numeric codes, biometrics can also be utilised to verify your identity. 
+                This includes your fingerprint of face ID, which are incredibly more difficult to spoof than a numeric code (but not impossible sadly) - however many people do not wish to use this type of information due to privacy concerns. This is due to (understandable) fears that biometric information may be bought and sold, and how corportations and goverments will use that data (can they trust people to be responsible with it?).
+                </p>
+                <h3>Where can you use Two-Factor Authentication?</h3>
+                <p>
+                Not everywhere unfortunately, but a large number of popular online websites/service utilise this feature. 
+                These include; Twitch, Youtube, Amazon, eBay,Airbnb, Google Pay, PayPal, Western Union, Facebook, TikTok, Twitter, Snapchat, WhatsApp, Discord (and Abertay University ofcourse!).
+                Many more apps use Two-Factor Authentication and you can check this by using the following website <a href="https://2fa.directory/int">2fa directory</a>.
+                By having two pieces of information that are seperate, this makes it more challenging for someone to access websites/services pretending to be you. 
+                The more difficult it is for a hacker to obtain your login details, the more secure you will be online.
+                For decades, a strong enough password and username has been utilised to prove your identity, but with rising attack 2fa may not be a silver bullet, but sadly you will never be completely safe on the internet.
+                capacity.
+                </p>
+                <p> 
+                I cannot say for certain why the some of the well established companies I am going to name do not use 2FA.
+                It is interesting to note that the vast majority of airlines do not support 2FA <a href="https://2fa.directory/int/#transport">(you can check here if you don't trust me!)</a>. 
+                While this looks not secure on the surface, airports act as a real life Two-Factor Authenticator, as they will check your passport to ensure your face matches the picture on the passport and that the name matches the name on the ticket. <br>
+                As for other well established apps that don't enable Two-Factor Authentication (e.g. Dell, John Lewis, Lenovo, Rakuten, Netflix, Virgin Media, EE, Disney+, Spotify, Ticketmaster - any many more) <a href="https://2fa.directory/int/"> again, check here to see for yourself!</a>
+                Can it be assumed they do not value their user's privacy as much as rival companies that use 2fa? It's difficult to see why and sadly either a mass data breach or legislation seem like the likely avenues to persuade the above companies (and others who don't use 2fa) to enable 2fa for their users.
+                </p>
+                <p>
+                <b>    
+                If you take anything away from this, it can be frustrating having to take out your phone to log on to your authenticator app of choice to find the 6 digit code and enter it before it refreshes to access a website or application online. However, the more effort you make to login to something, means that any potential hackers have to also make the same amount of effort. 
+                When this enables you to be more secure when accessing something online you do not want others to access, the inconvenience of using two-factor authentication is more than worth it.</b>
+                </p>
+                
+              <br>
+              <p>Links</p>
+              <a href="https://2fa.directory/int/">The 2FA Directory</a><br>
+              <a href="https://haveibeenpwned.com/"have i been pwned?></a>
+              
 
-                    <h2 class="section-heading">Heading title hereThe Final Frontier</h2>
-
-                    <p>Paragraphs go here</p>
-
-                    <h3>What is it? </h3> class="section-heading">Reaching for the Stars</h2>
-<h3>Who made it? </h3>
-<h3>How does it work?</h3>
-<h3> Why use it? </h3>
-<h3>What analogy would you use to explain it to someone not tech savvy?</h3>
-                    <p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-
-                    <a href="#">
-                        <img class="img-responsive" src="img/post-sample-image.jpg" alt="">
-                    </a>
-                    <span class="caption text-muted">Caption text goes here</span>
-
-                    <p>More paragraphs can go here</p>
-
-                    <p>Placeholder text by <a href="http://spaceipsum.com/">Placeholder textSpace Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">insert name of line</a>.</p>
-                </div>
             </div>
         </div>
-    </article>
+    </div>
+</article>
 
-    <hr>
+<hr>
 
-    <!-- Footer -->
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <ul class="list-inline text-center">
-                        <li>
-                            <a href="https://twitter.com/wildcyber">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.linkedin.com/in/ewantaylor55/">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-			    <li>
-                            <a href="podcasts.html">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-microphone fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-			     <li>
-                            <a href="contact.html">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/cyberianwilderness">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-		
-                    </ul>
-                    <p class="copyright text-muted">Cyberian Wilderness</p>
-                </div>
+<!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <ul class="list-inline text-center">
+                    <li>
+                        <a href="https://twitter.com/wildcyber">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/in/ewantaylor55/">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+            <li>
+                        <a href="podcasts.html">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-microphone fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+             <li>
+                        <a href="contact.html">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/cyberianwilderness">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+    
+                </ul>
+                <p class="copyright text-muted">Cyberian Wilderness 2022</p>
             </div>
         </div>
-    </footer>
+    </div>
+</footer>
 
-    <!-- jQuery -->
-    <script src="vendor/jquery/jquery.min.js"></script>
+<!-- jQuery -->
+<script src="vendor/jquery/jquery.min.js"></script>
 
-    <!-- Bootstrap Core JavaScript -->
-    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+<!-- Bootstrap Core JavaScript -->
+<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 
-    <!-- Contact Form JavaScript -->
-    <script src="js/jqBootstrapValidation.js"></script>
-    <script src="js/contact_me.js"></script>
+<!-- Contact Form JavaScript -->
+<script src="js/jqBootstrapValidation.js"></script>
+<script src="js/contact_me.js"></script>
 
-    <!-- Theme JavaScript -->
-    <script src="js/clean-blog.min.js"></script>
+<!-- Theme JavaScript -->
+<script src="js/clean-blog.min.js"></script>
 
 </body>
 
