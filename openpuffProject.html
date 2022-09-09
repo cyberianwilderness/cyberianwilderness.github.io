@@ -271,7 +271,7 @@ h2 {text-align: center;}
                     <li><a href="https://gchq.github.io/CyberChef/">CyberChef</a></li>
                     </p>
 
-                <button class="accordion"><h2 class ="post-title">Hidden message answer</h2></button>
+                <button class="accordion"><h3">Hidden message answer</h3></button>
                 <div class="panel">
 			<div class="post-preview">
                     		<p>
@@ -364,7 +364,22 @@ h2 {text-align: center;}
 
 <!-- Theme JavaScript -->
 <script src="js/clean-blog.min.js"></script>
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
 
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
 </body>
 
 </html>
